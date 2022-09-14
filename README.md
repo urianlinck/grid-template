@@ -1,1 +1,3 @@
-# a024-template
+# a024 - Grid
+
+Utilize este template para executar as tarefas de aula!
